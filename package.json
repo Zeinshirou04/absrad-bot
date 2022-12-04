@@ -1,0 +1,28 @@
+{
+  "name": "absrad",
+  "version": "1.0.0",
+  "description": "Discord Bot App Absrad",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "discord-bot"
+  },
+  "keywords": [
+    "absrad"
+  ],
+  "author": "Farras Adhani",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.14.0",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
